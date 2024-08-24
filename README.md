@@ -16,8 +16,12 @@ Primeiro fui no Copilot, que tem problemas com a quantidade de caractéres. Em s
 ----------------------------------------
 
 ## 🚀 Resultados
-Aqui está o primeiro paragráfo. 
+Aqui está o primeiro paragráfo:
+---------------------------------------
 "Deadpool and Wolverine" é um filme que equilibra nostalgia e inovação, combinando a irreverência de Deadpool com a brutalidade de Wolverine. Dirigido por Shawn Levy, o filme não é apenas um espetáculo de ação, mas também uma celebração do legado de dois dos personagens mais amados da Marvel. A química entre Ryan Reynolds e Hugh Jackman é inegável, com ambos atores entregando performances que capturam a essência de seus personagens enquanto exploram novas camadas emocionais.
+---------------------------------------
+E aqui está o link da crítica completa:
+
 ----------------------------------------
 
 ## 💭 Reflexão (Opcional)
